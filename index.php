@@ -81,7 +81,10 @@ $goods = mysqli_fetch_all($goods);
             <input type = "text2"  name = "type1">
             <p>Кабинет</p>
             <input type = "text2"  name = "cabinet1">
+            <p>Дата покупки</p>
+            <input type = "text"  name = "date1">
             <button type = "submit2">Обновить</button>
+                
            
             
          
